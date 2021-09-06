@@ -29,7 +29,22 @@
     },
     
     {
+      "name": "CorpseFlare",
+      "enabled": true
+    },
+    
+    {
       "name": "FARL",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flare Stack",
+      "enabled": true
+    },
+    
+    {
+      "name": "FlareStack_Speed",
       "enabled": true
     },
     
