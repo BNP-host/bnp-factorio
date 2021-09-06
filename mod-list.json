@@ -9,12 +9,37 @@
     },
     
     {
+      "name": "aai-containers",
+      "enabled": true
+    },
+    
+    {
+      "name": "beltSorter",
+      "enabled": true
+    },
+    
+    {
+      "name": "classic-mining-drill",
+      "enabled": true
+    },
+    
+    {
       "name": "FNEI",
       "enabled": true
     },
     
     {
+      "name": "inserter-throughput",
+      "enabled": true
+    },
+    
+    {
       "name": "Inserter_Config",
+      "enabled": true
+    },
+    
+    {
+      "name": "Long Inserters",
       "enabled": true
     },
     
