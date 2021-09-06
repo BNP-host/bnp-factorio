@@ -14,12 +14,27 @@
     },
     
     {
+      "name": "BatteryElectricTrain",
+      "enabled": true
+    },
+    
+    {
       "name": "beltSorter",
       "enabled": true
     },
     
     {
       "name": "classic-mining-drill",
+      "enabled": true
+    },
+    
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
       "enabled": true
     },
     
@@ -45,6 +60,16 @@
     
     {
       "name": "miniloader",
+      "enabled": true
+    },
+    
+    {
+      "name": "ThickerLines",
+      "enabled": true
+    },
+    
+    {
+      "name": "train-throughput-estimator",
       "enabled": true
     }
   ]
