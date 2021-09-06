@@ -14,6 +14,11 @@
     },
     
     {
+      "name": "autobuild",
+      "enabled": true
+    },
+    
+    {
       "name": "BatteryElectricTrain",
       "enabled": true
     },
@@ -79,12 +84,22 @@
     },
     
     {
+      "name": "Realistic_Heat_Glow",
+      "enabled": true
+    },
+    
+    {
       "name": "ThickerLines",
       "enabled": true
     },
     
     {
       "name": "train-throughput-estimator",
+      "enabled": true
+    },
+    
+    {
+      "name": "ZRecycling",
       "enabled": true
     }
   ]
