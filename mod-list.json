@@ -14,6 +14,26 @@
     },
     
     {
+      "name": "Additional-Turret-updated",
+      "enabled": true
+    },
+    
+    {
+      "name": "air-filtering",
+      "enabled": true
+    },
+    
+    {
+      "name": "Armored-train",
+      "enabled": true
+    },
+    
+    {
+      "name": "assemblyanalyst",
+      "enabled": true
+    },
+    
+    {
       "name": "autobuild",
       "enabled": true
     },
@@ -29,12 +49,32 @@
     },
     
     {
+      "name": "BetterRoboport",
+      "enabled": true
+    },
+    
+    {
+      "name": "big-data-string",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
       "name": "classic-mining-drill",
       "enabled": true
     },
     
     {
       "name": "CorpseFlare",
+      "enabled": true
+    },
+    
+    {
+      "name": "factoryplanner",
       "enabled": true
     },
     
@@ -55,6 +95,11 @@
     
     {
       "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flow Control",
       "enabled": true
     },
     
@@ -95,6 +140,31 @@
     
     {
       "name": "train-throughput-estimator",
+      "enabled": true
+    },
+    
+    {
+      "name": "TrainDriver_A16_fix",
+      "enabled": true
+    },
+    
+    {
+      "name": "train_deadlock_finder",
+      "enabled": true
+    },
+    
+    {
+      "name": "Trees",
+      "enabled": true
+    },
+    
+    {
+      "name": "Warehousing",
+      "enabled": true
+    },
+    
+    {
+      "name": "WaterWell",
       "enabled": true
     },
     
