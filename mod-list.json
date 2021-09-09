@@ -104,6 +104,11 @@
     },
     
     {
+      "name": "Crafting_Speed_Research",
+      "enabled": true
+    },
+    
+    {
       "name": "Dectorio",
       "enabled": true
     },
@@ -120,6 +125,11 @@
     
     {
       "name": "FARL",
+      "enabled": true
+    },
+    
+    {
+      "name": "fireproof-trains",
       "enabled": true
     },
     
@@ -149,6 +159,11 @@
     },
     
     {
+      "name": "GUI_Unifyer",
+      "enabled": true
+    },
+    
+    {
       "name": "inserter-throughput",
       "enabled": true
     },
@@ -159,12 +174,22 @@
     },
     
     {
+      "name": "Killer_Train_Namer",
+      "enabled": true
+    },
+    
+    {
       "name": "LogisticTrainNetwork",
       "enabled": true
     },
     
     {
       "name": "Long Inserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "manual-trains-at-temp-stops",
       "enabled": true
     },
     
@@ -194,17 +219,17 @@
     },
     
     {
+      "name": "train-log",
+      "enabled": true
+    },
+    
+    {
       "name": "train-throughput-estimator",
       "enabled": true
     },
     
     {
       "name": "TrainDriver_A16_fix",
-      "enabled": true
-    },
-    
-    {
-      "name": "train_deadlock_finder",
       "enabled": true
     },
     
@@ -230,6 +255,11 @@
     
     {
       "name": "WaterWell",
+      "enabled": true
+    },
+    
+    {
+      "name": "windturbines-2",
       "enabled": true
     },
     
