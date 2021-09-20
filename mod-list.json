@@ -14,6 +14,11 @@
     },
     
     {
+      "name": "aai-containers",
+      "enabled": true
+    },
+    
+    {
       "name": "aai-industry",
       "enabled": true
     },
@@ -105,16 +110,6 @@
     
     {
       "name": "boblogistics",
-      "enabled": true
-    },
-    
-    {
-      "name": "bobpower",
-      "enabled": true
-    },
-    
-    {
-      "name": "bobwarfare",
       "enabled": true
     },
     
@@ -265,11 +260,6 @@
     
     {
       "name": "robot_attrition",
-      "enabled": true
-    },
-    
-    {
-      "name": "rso-mod",
       "enabled": true
     },
     
