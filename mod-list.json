@@ -1,0 +1,351 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "248k",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-programmable-vehicles",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signals",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-chaingunner",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-flame-tank",
+      "enabled": true
+    },
+    
+    {
+      "name": "Additional-Turret-updated",
+      "enabled": true
+    },
+    
+    {
+      "name": "Advanced-Solar",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "Armor_pockets",
+      "enabled": true
+    },
+    
+    {
+      "name": "AutoDeconstruct",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-balancer",
+      "enabled": true
+    },
+    
+    {
+      "name": "BetterPersonalLaserDefense",
+      "enabled": true
+    },
+    
+    {
+      "name": "BiggerStacksPlus",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobequipment",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobgreenhouse",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "cargo-ships",
+      "enabled": true
+    },
+    
+    {
+      "name": "combat-mechanics-overhaul",
+      "enabled": true
+    },
+    
+    {
+      "name": "construction-train",
+      "enabled": true
+    },
+    
+    {
+      "name": "Crafting_Speed_Research",
+      "enabled": true
+    },
+    
+    {
+      "name": "DiscoScience",
+      "enabled": true
+    },
+    
+    {
+      "name": "EnableResearchQueue",
+      "enabled": true
+    },
+    
+    {
+      "name": "equipment-gantry",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorio_Roboport_mk2",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    
+    {
+      "name": "FasterStart",
+      "enabled": true
+    },
+    
+    {
+      "name": "fast_trans",
+      "enabled": true
+    },
+    
+    {
+      "name": "fireproof-trains",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flare Stack",
+      "enabled": true
+    },
+    
+    {
+      "name": "gore-updated",
+      "enabled": true
+    },
+    
+    {
+      "name": "grappling-gun",
+      "enabled": true
+    },
+    
+    {
+      "name": "GUI_Unifyer",
+      "enabled": true
+    },
+    
+    {
+      "name": "Honk",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "inventory-repair",
+      "enabled": true
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "miniloader",
+      "enabled": true
+    },
+    
+    {
+      "name": "Mining_Drones",
+      "enabled": true
+    },
+    
+    {
+      "name": "mining_drones_overloaded",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantArsenal",
+      "enabled": true
+    },
+    
+    {
+      "name": "recursive-blueprints",
+      "enabled": true
+    },
+    
+    {
+      "name": "RitnLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "RitnWaterfill",
+      "enabled": true
+    },
+    
+    {
+      "name": "robot_attrition",
+      "enabled": true
+    },
+    
+    {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "shield-projector",
+      "enabled": true
+    },
+    
+    {
+      "name": "SmartTrains",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-3",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-4",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-5",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-hr-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-postprocess",
+      "enabled": true
+    },
+    
+    {
+      "name": "SpidertronEnhancements",
+      "enabled": true
+    },
+    
+    {
+      "name": "splatter_guard",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "train-cargo-care",
+      "enabled": true
+    },
+    
+    {
+      "name": "Warehousing",
+      "enabled": true
+    }
+  ]
+}
