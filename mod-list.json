@@ -79,12 +79,27 @@
     },
     
     {
+      "name": "beltSorter",
+      "enabled": true
+    },
+    
+    {
       "name": "BetterPersonalLaserDefense",
       "enabled": true
     },
     
     {
       "name": "BiggerStacksPlus",
+      "enabled": true
+    },
+    
+    {
+      "name": "Big_Brother",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobassembly",
       "enabled": true
     },
     
@@ -239,6 +254,16 @@
     },
     
     {
+      "name": "NapalmArtillery",
+      "enabled": true
+    },
+    
+    {
+      "name": "Nuclear_Artillery_Shell",
+      "enabled": true
+    },
+    
+    {
       "name": "RampantArsenal",
       "enabled": true
     },
@@ -330,6 +355,11 @@
     
     {
       "name": "train-cargo-care",
+      "enabled": true
+    },
+    
+    {
+      "name": "UltimateBelts",
       "enabled": true
     },
     
