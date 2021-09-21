@@ -49,12 +49,27 @@
     },
     
     {
+      "name": "aai-vehicles-hauler",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-zones",
+      "enabled": true
+    },
+    
+    {
       "name": "Additional-Turret-updated",
       "enabled": true
     },
     
     {
       "name": "Advanced-Solar",
+      "enabled": true
+    },
+    
+    {
+      "name": "AdvancedSubstation",
       "enabled": true
     },
     
@@ -85,6 +100,11 @@
     
     {
       "name": "BetterPersonalLaserDefense",
+      "enabled": true
+    },
+    
+    {
+      "name": "bigger-artillery",
       "enabled": true
     },
     
@@ -204,6 +224,11 @@
     },
     
     {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
       "name": "gore-updated",
       "enabled": true
     },
@@ -284,6 +309,11 @@
     },
     
     {
+      "name": "robosubstation",
+      "enabled": true
+    },
+    
+    {
       "name": "robot_attrition",
       "enabled": true
     },
@@ -350,6 +380,11 @@
     
     {
       "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "ThickerLines",
       "enabled": true
     },
     
